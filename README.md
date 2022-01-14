@@ -1,4 +1,4 @@
-# shutdown linux os
+# Shutdown linux os
 shutdown automatically after the enterd seconds
 
 ## Used functions
