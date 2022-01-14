@@ -1,4 +1,4 @@
-# shutdown limit 
+# shutdown linux os
 shutdown automatically after the enterd seconds
 
 ## Used functions
